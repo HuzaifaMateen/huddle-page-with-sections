@@ -232,7 +232,10 @@ footer h1{
     font-family: 'Open Sans', sans-serif;
     margin-top: 150px;
 }
-@media (max-width: 800px) {
+@media (max-width: 555px) {
+    body{
+        width: 100%;
+    }
     header img{
         margin-left: 40px;
     }
